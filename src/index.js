@@ -5,7 +5,6 @@ import {  Router,  IndexRoute,  Route, browserHistory} from "react-router"
 import Layout from "./components/layout";
 import Root from "./components/root";
 
-
 class App extends Component{
     
     
